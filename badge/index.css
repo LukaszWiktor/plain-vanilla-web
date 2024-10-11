@@ -1,0 +1,6 @@
+@import url("./components/avatar.css");
+@import url("./components/badge.css");
+
+body { font-family: monospace; }
+p, div { margin: 1em; font-family: sans-serif; }
+x-badge { vertical-align: middle; }
